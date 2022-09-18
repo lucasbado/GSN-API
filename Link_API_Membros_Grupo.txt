@@ -1,0 +1,11 @@
+Azure
+https://epictask-2tdsr.azurewebsites.net/api/user
+
+Heroku
+https://epictask-2tdsr.herokuapp.com/api/user
+
+87564 - Gabriel Andrade Pereira
+89347 - Israel Vieira Ribeiro
+88072 - Lucas Alves dos Santos 
+86818 - Raissa Iorio da Silva Oliveira
+86664 - Thiago Vazquez Enninger
